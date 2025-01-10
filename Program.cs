@@ -92,11 +92,9 @@ namespace FractionDemo
             Drib f1 = new Drib(3, 4);
             Drib f2 = new Drib(2, 5);
 
-            Console.WriteLine("Fractions:");
             Console.WriteLine($"f1 = {f1}");
             Console.WriteLine($"f2 = {f2}");
 
-            Console.WriteLine("\nOperations:");
             Console.WriteLine($"f1 + f2 = {f1 + f2}");
             Console.WriteLine($"f1 - f2 = {f1 - f2}");
             Console.WriteLine($"f1 * f2 = {f1 * f2}");
